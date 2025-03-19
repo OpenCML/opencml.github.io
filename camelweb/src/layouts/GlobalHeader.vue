@@ -25,7 +25,8 @@ const goto = (link: string) => {
 <style scoped>
 .globalheader {
   display: flex;
-  background-color: #5d788b;
+  background-color: #cccccc;
+  background-image: url(../assets/background/header.jpg);
   height: 100px;
   justify-content: center;
   align-content: center;
@@ -33,10 +34,12 @@ const goto = (link: string) => {
 .globalheader img {
   height: 100px;
   width: 210px;
+  margin-left: 10px;
 }
 .globalheader .route {
   display: flex;
   flex: auto;
+  font-size: 23px;
   margin: 50px;
   align-items: center;
   justify-content: space-evenly;

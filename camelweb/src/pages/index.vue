@@ -1,5 +1,6 @@
 <template>
   <IndexView1 />
+  <IndexView2 />
 </template>
 
 <script lang="ts" setup></script>
@@ -8,7 +9,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url(../assets/star.jpg);
+  background-image: url(../assets/star3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
