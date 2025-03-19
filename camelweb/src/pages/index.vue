@@ -1,6 +1,7 @@
 <template>
   <IndexView1 />
   <IndexView2 />
+  <IndexView3 />
 </template>
 
 <script lang="ts" setup></script>
